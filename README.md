@@ -48,21 +48,21 @@ Web sitesi aşağıdaki bölümlerden oluşmaktadır:
 - LinkedIn: [LinkedIn Profili](https://linkedin.com/in/alp-eray-taşçı)
 - Twitter: [Twitter Profili](https://x.com/alperaytasci)
 
+## Kurulum
+Bu projeyi kendi bilgisayarınızda çalıştırmak için:
+
+1. Repoyu klonlayın:
+
+   ```bash
+   git clone https://github.com/alpperay/boya-sitesi.git
+   ```
+2. `index.html` dosyasını bir tarayıcıda açın.
+
 ## Ekran Görüntüleri 
 
 ![scshoots 1](https://github.com/user-attachments/assets/986ae69c-2abb-4222-81fd-68bb9a1ae26c)
 ![scshoots 02](https://github.com/user-attachments/assets/799d4a00-ff8b-401e-92ca-40c9047cfb28)
 ![scshoots 03](https://github.com/user-attachments/assets/2c328c83-98a7-446e-b928-20373ff735ed)
-
-
-## Kurulum
-Bu projeyi kendi bilgisayarınızda çalıştırmak için:
-
-1. Repoyu klonlayın:
-   ```bash
-   git clone https://github.com/alpperay/boya-sitesi.git
-   ```
-2. `index.html` dosyasını bir tarayıcıda açın.
 
 ## Lisans
 Bu proje 2025 Alp Eray Taşçı tarafından oluşturulmuştur. Tüm hakları saklıdır.
