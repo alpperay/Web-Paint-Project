@@ -39,7 +39,6 @@ Web sitesi aşağıdaki bölümlerden oluşmaktadır:
 
 ## Stil Özellikleri
 - `linear-gradient` arka plan geçişleri
-- Duyarlı (responsive) tasarım
 - Buton ve form alanları için gölgelendirme efektleri
 - Renk geçişleri ve hover efektleri
 
