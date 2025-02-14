@@ -54,9 +54,12 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için:
 1. Repoyu klonlayın:
 
    ```bash
-   git clone https://github.com/alpperay/boya-sitesi.git
+   git clone <repo-url>
    ```
-2. `index.html` dosyasını bir tarayıcıda açın.
+2) index.html dosyasını bir web tarayıcısında açarak sayfayı görüntüleyebilirsiniz.
+- Tarayıcıda açmak için:
+- Dosyaya sağ tıklayın ve "Open with" seçeneği ile tercih ettiğiniz tarayıcıyı seçin.
+3) Projede yer alan style.css dosyası ile sayfa tasarımı değiştirebilir ve özelleştirebilirsiniz.
 
 ## Ekran Görüntüleri 
 
