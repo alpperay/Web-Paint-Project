@@ -67,6 +67,10 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için:
 ![scshoots 02](https://github.com/user-attachments/assets/799d4a00-ff8b-401e-92ca-40c9047cfb28)
 ![scshoots 03](https://github.com/user-attachments/assets/2c328c83-98a7-446e-b928-20373ff735ed)
 
+## Geliştirici & Yazar
+
+**Alp Eray Taşçı**
+
 ## Lisans
 Bu proje 2025 Alp Eray Taşçı tarafından oluşturulmuştur. Tüm hakları saklıdır.
 
